@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: facturtacion
+  annotations:
+    github.com/project-slug: Ju4nRojas/facturtacion
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-demo
